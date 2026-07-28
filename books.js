@@ -14,7 +14,7 @@ const books = [
         author: "Sant Dnyaneshwar",
         description: "Marathi commentary on the Bhagavad Gita.",
         cover: "https://via.placeholder.com/150x220?text=Dnyaneshwari",
-        link: "https://drive.google.com/file/d/YOUR_FILE_ID/view"
+        link: "https://drive.google.com/file/d/1As6vnRfs4auzrphWwJxsbjl2pnSvTcq0/view?usp=drivesdk"
     },
 
     {
