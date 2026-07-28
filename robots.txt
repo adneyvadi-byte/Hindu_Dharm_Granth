@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adneyvadi-byte.github.io/Hindu_Dharm_Granth/sitemap.xml
